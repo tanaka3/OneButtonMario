@@ -1,0 +1,2 @@
+# OneButtonMario
+任天堂Switchのファミコンのマリオを1つのボタンで遊ぶ
